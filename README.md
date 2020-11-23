@@ -5,7 +5,7 @@ PAR² is a Lagrangian solute transport simulator using a parallelized Random Wal
 Multirate Mass Transfer Model is incorporated for each grid block.
 
 ## Getting Started
-You can download the latest release of PAR² for Windows or Linux executable from [here](https://github.com/Jinwoousc/par2_updated/Build/Release). Make sure your computer is equipped with an NVIDIA GPU and NVIDIA drivers are updated. You can control the simulation parameters through a YAML configuration file. Look inside the Examples folder to get started.
+You can download the latest release of PAR² for Windows executable from [here](https://github.com/Jinwoousc/par2_updated/tree/main/Build/Release). Make sure your computer is equipped with an NVIDIA GPU and NVIDIA drivers are updated. You can control the simulation parameters through a YAML configuration file. Look inside the Examples folder to get started.
 
 ## Build
 The following software and libraries must be installed:
@@ -46,4 +46,5 @@ The following software and libraries must be installed:
         devenv /Build Release par2.sln
 
 ## Citations
-Rizzo, C. B., Nakano, A., and de Barros, F. P. J. [PAR²: Parallel Random Walk Particle Tracking Method for Solute Transport in Porous Media](https://doi.org/10.1016/j.cpc.2019.01.013) Computer Physics Communications
+Rizzo, C. B., Nakano, A., & de Barros, F. P. J. (2019). [PAR²: Parallel Random Walk Particle Tracking Method for solute transport in porous media](https://doi.org/10.1016/j.cpc.2019.01.013) Computer Physics Communications, 239, 265-271.
+Salamon, P., Fernàndez‐Garcia, D., & Gómez‐Hernández, J. J. (2006). [Modeling mass transfer processes using random walk particle tracking](https://doi.org/10.1029/2006WR004927) Water Resources Research, 42(11).
