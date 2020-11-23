@@ -47,4 +47,5 @@ The following software and libraries must be installed:
 
 ## Citations
 Rizzo, C. B., Nakano, A., & de Barros, F. P. J. (2019). [PAR²: Parallel Random Walk Particle Tracking Method for solute transport in porous media](https://doi.org/10.1016/j.cpc.2019.01.013) Computer Physics Communications, 239, 265-271.
+
 Salamon, P., Fernàndez‐Garcia, D., & Gómez‐Hernández, J. J. (2006). [Modeling mass transfer processes using random walk particle tracking](https://doi.org/10.1029/2006WR004927) Water Resources Research, 42(11).
